@@ -549,5 +549,38 @@
         }
     ],
     "adventure_quests":
-    []
+    [],
+    "student_organizations":
+    [
+        {
+            "id": "brainiacs",
+            "name": "The Brainiacs",
+            "school": "Foxbury Institute"
+        },
+        {
+            "id": "bot_savants",
+            "name": "Bot Savants",
+            "school": "Foxbury Institute"
+        },
+        {
+            "id": "foxbury_spirit_squad",
+            "name": "Foxbury Spirit Squad",
+            "school": "Foxbury Institute"
+        },
+        {
+            "id": "art_society",
+            "name": "Art Society",
+            "school": "University of Britechester"
+        },
+        {
+            "id": "debate_guild",
+            "name": "The Debate Guild",
+            "school": "University of Britechester"
+        },
+        {
+            "id": "britechester_spirit_corps",
+            "name": "Britechester Spirit Corps",
+            "school": "University of Britechester"
+        }
+    ]
 }

@@ -1,0 +1,25 @@
+{
+    "university":
+    {
+        "degrees":
+        [
+            "Art History",
+            "Biology",
+            "Communications",
+            "Computer Science",
+            "Culinary Arts",
+            "Drama",
+            "Economics",
+            "Fine Art",
+            "History",
+            "Language & Literature",
+            "Physics",
+            "Psychology",
+            "Villainy"
+        ],
+        "elective_classes":
+        [],
+        "activities":
+        []
+    }
+}
