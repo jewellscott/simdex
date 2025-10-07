@@ -1,0 +1,99 @@
+{
+    "turn_ons_offs":
+    {
+        "way_of_life":
+        [
+            "Academic",
+            "Arts and Crafts",
+            "Broke",
+            "Career Minded",
+            "Culinary",
+            "Drink Making",
+            "Engineering",
+            "Health & Sports",
+            "Highly Skilled",
+            "Interpersonal",
+            "Media & Technology",
+            "Nature",
+            "Performer",
+            "Self-Employed",
+            "Sense of Humor",
+            "Slacker",
+            "Taken",
+            "Wealthy"
+        ],
+        "characteristics":
+        [
+            "Ambitionless",
+            "Ambitious",
+            "Argumentative",
+            "Artsy",
+            "Cerebral",
+            "Clean",
+            "Egotistical",
+            "Emotional Decision Makers",
+            "Family-Motivated",
+            "Funny",
+            "Hardworking",
+            "High Energy",
+            "Homebody",
+            "Messy",
+            "Nature Enthusiast",
+            "Optimistic",
+            "Pessimistic",
+            "Pet Enthusiast",
+            "Spirited"
+        ],
+        "romance_styles":
+        [
+            "Affection",
+            "Flirting",
+            "Gift Giving",
+            "Physical Intimacy",
+            "Woohoo"
+        ],
+        "hair_colors":
+        [
+            "Auburn",
+            "Black",
+            "Blonde",
+            "Brown",
+            "Dark Blue",
+            "Gray",
+            "Green",
+            "Hot Pink",
+            "Orange",
+            "Platinum",
+            "Purple",
+            "Red",
+            "Turquoise",
+            "White"
+        ],
+        "outfit_colors":
+        [
+            "Black",
+            "Blue",
+            "Brown",
+            "Gray",
+            "Green",
+            "Orange",
+            "Pink",
+            "Purple",
+            "Red",
+            "White",
+            "Yellow"
+        ],
+        "fashion":
+        [
+            "Basics",
+            "Boho",
+            "Country",
+            "Hipster",
+            "Outdoorsy",
+            "Polished",
+            "Preppy",
+            "Rocker",
+            "Streetwear"
+        ]
+    }
+}
