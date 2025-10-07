@@ -1,0 +1,553 @@
+{
+    "careers":
+    [
+        {
+            "id": "astronaut",
+            "name": "Astronaut",
+            "type": "Full-time",
+            "branches":
+            [
+                "Space Ranger",
+                "Interstellar Smuggler"
+            ]
+        },
+        {
+            "id": "athlete",
+            "name": "Athlete",
+            "type": "Full-time",
+            "branches":
+            [
+                "Professional Athlete",
+                "Bodybuilder"
+            ]
+        },
+        {
+            "id": "babysitter",
+            "name": "Babysitter",
+            "type": "Part-time"
+        },
+        {
+            "id": "barista",
+            "name": "Barista",
+            "type": "Part-time"
+        },
+        {
+            "id": "criminal",
+            "name": "Criminal",
+            "type": "Full-Time",
+            "branches":
+            [
+                "Boss",
+                "Oracle"
+            ]
+        },
+        {
+            "id": "culinary",
+            "name": "Culinary",
+            "type": "Full-time",
+            "branches":
+            [
+                "Chef",
+                "Mixologist"
+            ]
+        },
+        {
+            "id": "entertainer",
+            "name": "Entertainer",
+            "type": "Full-time",
+            "branches":
+            [
+                "Musician",
+                "Comedian"
+            ]
+        },
+        {
+            "id": "fast_food_employee",
+            "name": "Fast Food Employee",
+            "type": "Part-time"
+        },
+        {
+            "id": "freelance_artist",
+            "name": "Freelance Artist",
+            "type": "Freelance"
+        },
+        {
+            "id": "freelance_programmer",
+            "name": "Freelance Programmer",
+            "type": "Freelance"
+        },
+        {
+            "id": "freelance_writer",
+            "name": "Freelance Writer",
+            "type": "Freelance"
+        },
+        {
+            "id": "manual_laborer",
+            "name": "Manual Laborer",
+            "type": "Part-time"
+        },
+        {
+            "id": "painter",
+            "name": "Painter",
+            "type": "Full-time",
+            "branches":
+            [
+                "Master of the Real",
+                "Patron of the Arts"
+            ]
+        },
+        {
+            "id": "retail_employee",
+            "name": "Retail Employee",
+            "type": "Part-time"
+        },
+        {
+            "id": "secret_agent",
+            "name": "Secret Agent",
+            "type": "Full-time",
+            "branches":
+            [
+                "Diamond Agent",
+                "Villain"
+            ]
+        },
+        {
+            "id": "style_influencer",
+            "name": "Style Influencer",
+            "type": "Full-time",
+            "branches":
+            [
+                "Stylist",
+                "Trend Setter"
+            ]
+        },
+        {
+            "id": "tech_guru",
+            "name": "Tech Guru",
+            "type": "Full-time",
+            "branches":
+            [
+                "eSport Gamer",
+                "Start-up Entrepreneur"
+            ]
+        },
+        {
+            "id": "writer",
+            "name": "Writer",
+            "type": "Full-time",
+            "branches":
+            [
+                "Author",
+                "Journalist"
+            ]
+        },
+        {
+            "id": "detective",
+            "name": "Detective",
+            "type": "Active"
+        },
+        {
+            "id": "doctor",
+            "name": "Doctor",
+            "type": "Active"
+        },
+        {
+            "id": "scientist",
+            "name": "Scientist",
+            "type": "Active"
+        },
+        {
+            "id": "critic",
+            "name": "Critic",
+            "type": "Full-time",
+            "branches":
+            [
+                "Arts Critic",
+                "Food Critic"
+            ]
+        },
+        {
+            "id": "politician",
+            "name": "Politician",
+            "type": "Full-time",
+            "branches":
+            [
+                "Politiican",
+                "Charity Organizer"
+            ]
+        },
+        {
+            "id": "social_media",
+            "name": "Social Media",
+            "type": "Full-time",
+            "branches":
+            [
+                "Internet Personality",
+                "Public Relations"
+            ]
+        },
+        {
+            "id": "gardener",
+            "name": "Gardener",
+            "type": "Full-time",
+            "branches":
+            [
+                "Botanist",
+                "Floral Designer"
+            ]
+        },
+        {
+            "id": "actor",
+            "name": "Actor",
+            "type": "Active"
+        },
+        {
+            "id": "military",
+            "name": "Military",
+            "type": "Full-time",
+            "branches":
+            [
+                "Covert Operator",
+                "Officer"
+            ]
+        },
+        {
+            "id": "conservationist",
+            "name": "Conservationist",
+            "type": "Full-time",
+            "branches":
+            [
+                "Environmental Manager",
+                "Marine Biologist"
+            ]
+        },
+        {
+            "id": "diver",
+            "name": "Diver",
+            "type": "Part-time"
+        },
+        {
+            "id": "fisherman",
+            "name": "Fisherman",
+            "type": "Part-time"
+        },
+        {
+            "id": "lifeguard",
+            "name": "Lifeguard",
+            "type": "Part-time"
+        },
+        {
+            "id": "freelance_fashion_photographer",
+            "name": "Freelance Fashion Photographer",
+            "type": "Freelance"
+        },
+        {
+            "id": "education",
+            "name": "Education",
+            "type": "Full-time",
+            "branches":
+            [
+                "Administrator",
+                "Professor"
+            ]
+        },
+        {
+            "id": "engineer",
+            "name": "Engineer",
+            "type": "Full-time",
+            "branches":
+            [
+                "Computer Engineer",
+                "Mechanical Engineer"
+            ]
+        },
+        {
+            "id": "law",
+            "name": "",
+            "type": "Full-time",
+            "branches":
+            [
+                "Judge",
+                "Private Attorney"
+            ]
+        },
+        {
+            "id": "civil_designer",
+            "name": "",
+            "type": "Full-time",
+            "branches":
+            [
+                "Civic Planner",
+                "Green Technician"
+            ]
+        },
+        {
+            "id": "freelance_crafter",
+            "name": "Freelance Crafter",
+            "type": "Freelance"
+        },
+        {
+            "id": "salaryperson",
+            "name": "Salaryperson",
+            "type": "Full-time",
+            "branches":
+            [
+                "Expert",
+                "Supervisor"
+            ]
+        },
+        {
+            "id": "paranormal_investigator",
+            "name": "Paranormal Investigator",
+            "type": "Freelance"
+        },
+        {
+            "id": "interior_decorator",
+            "name": "Interior Decorator",
+            "type": "Active"
+        },
+        {
+            "id": "simfluencer",
+            "name": "Simfluencer",
+            "type": "Part-time"
+        },
+        {
+            "id": "video_game_streamer",
+            "name": "Video Game Streamer",
+            "type": "Part-time"
+        },
+        {
+            "id": "handyperson",
+            "name": "Handyperson",
+            "type": "Part-time"
+        },
+        {
+            "id": "romance_consultant",
+            "name": "Romance Consultant",
+            "type": "Full-time",
+            "branches":
+            [
+                "Matchmaker",
+                "Relationship Counselor"
+            ]
+        },
+        {
+            "id": "reaper",
+            "name": "Reaper",
+            "type": "Active"
+        },
+        {
+            "id": "undertaker",
+            "name": "Undertaker",
+            "type": "Full-time",
+            "branches":
+            [
+                "Funeral Director",
+                "Mortician"
+            ]
+        },
+        {
+            "id": "naturopath",
+            "name": "Naturopath",
+            "type": "Full-time",
+            "branches":
+            [
+                "Apothe-curist",
+                "Lifestyle Coaching"
+            ]
+        }
+    ],
+    "afterschool_activities":
+    [
+        "Scout",
+        "Drama Club",
+        "E-Sports Competitor",
+        "Soccer Team",
+        "Cheer Team",
+        "Chess Team",
+        "Computer Team",
+        "Football Team"
+    ],
+    "odd_jobs":
+    [
+        "Needing Nom Noms",
+        "She Sells Seashells",
+        "Photos for Publication",
+        "Lawn Maintenance",
+        "TV Hookup Help",
+        "Coconut Milk Real Milk?",
+        "Box Packing",
+        "Bonsai Artist Needed",
+        "Frogs for Research",
+        "Need a Mixologist for Beach Party",
+        "Moving Furniture",
+        "LFG (Looking for Gamer)",
+        "Hiking Buddy",
+        "Wanted: Sand Sculpture Judge",
+        "Paid Beach-Cleaning Volunteer Work",
+        "Mayhem at the Beach",
+        "Wingman Wanted",
+        "Wanted: Dumb or Discrete",
+        "Last Minute Beach Party",
+        "A Mahi Mahi of My Own",
+        "In Need of Waxing",
+        "Making Proof",
+        "Private Diving Lesson",
+        "A Kava Exaggeration",
+        "In Search of AUTHENTIC Souvenir",
+        "Looking for a Love Guru",
+        "The Cave of Wanders",
+        "Me Treasure Cleaning",
+        "Storm Repairs",
+        "The Ocean's Embrace",
+        "Wedding Photographer",
+        "Let's Make Art"
+    ],
+    "errands":
+    [
+        {
+            "sim": "Agnes Crumplebottom",
+            "errands":
+            [
+                "Another Useless Tourist",
+                "Not So Useless?",
+                "Sow What's New",
+                "Show Off!",
+                "What's the Scuttlebutt?"
+            ]
+        },
+        {
+            "sim": "Agatha Crumplebottom",
+            "errands":
+            [
+                "Do I Gnome You?",
+                "Meddlin' and Peddlin'",
+                "Sow What's New?",
+                "Show Off!",
+                "What's the Scuttlebutt?"
+            ]
+        },
+        {
+            "sim": "Lavina Chopra",
+            "errands":
+            [
+                "Welcome to Hensford-on-Bagley!",
+                "Show Off!",
+                "What's the Scuttlebutt?",
+                "A Friendly Visit"
+            ]
+        },
+        {
+            "sim": "Rahul Chopra",
+            "errands":
+            [
+                "Taste for Adventure",
+                "Show Off!",
+                "What's the Scuttlebutt?",
+                "A Friendly Visit",
+                "Creature Comforts"
+            ]
+        },
+        {
+            "sim": "Michael Bell",
+            "errands":
+            [
+                "Mushroom Madness",
+                "A Simple Request",
+                "Wonders of Nature",
+                "Second Nature"
+            ]
+        },
+        {
+            "sim": "Sara Scott",
+            "errands":
+            [
+                "Signature Drink",
+                "A Simple Request",
+                "What's the Scuttlebutt?",
+                "A Friendly Visit"
+            ]
+        },
+        {
+            "sim": "Kim Goldbloom",
+            "errands":
+            [
+                "Too Busy",
+                "A Simple Request",
+                "Show Off!",
+                "Creature Comforts"
+            ]
+        }
+    ],
+    "favors":
+    [
+        {
+            "sim": "Ekade Aether",
+            "favors":
+            [
+                "Unfinished Boo-siness",
+                "The Small Things"
+            ]
+        },
+        {
+            "sim": "Esther Gomes",
+            "favors":
+            [
+                "Cake Baked Lies",
+                "Essence-tials"
+            ]
+        },
+        {
+            "sim": "Zelmira Gomes",
+            "favors":
+            [
+                "Petal for Your Thoughts",
+                "We All Fall Down"
+            ]
+        },
+        {
+            "sim": "Nyon Specter",
+            "favors":
+            [
+                "Grim Beginnings",
+                "Macabre Mysteries"
+            ]
+        }
+    ],
+    "fables":
+    [
+        {
+            "sim": "Todd Attenberry",
+            "fables":
+            [
+                "Ly Waiting",
+                "Be Kind, Unwind"
+            ]
+        },
+        {
+            "sim": "Zhaleh Amani",
+            "fables":
+            [
+                "Plants Lie Here"
+            ]
+        },
+        {
+            "sim": "Joe Trader",
+            "fables":
+            [
+                "Against All Odds",
+                "Deliver the News"
+            ]
+        },
+        {
+            "sim": "Care Ren",
+            "fables":
+            [
+                "Stubborn Misfortune",
+                "The Ground's Jewel"
+            ]
+        }
+    ],
+    "adventure_quests":
+    []
+}
