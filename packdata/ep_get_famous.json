@@ -1,0 +1,175 @@
+{
+    "pack_meta":
+    {
+        "id": "ep06",
+        "name": "Get Famous"
+    },
+    "objects":
+    [],
+    "traits":
+    [],
+    "lot_traits":
+    [],
+    "npcs":
+    [],
+    "skills":
+    [],
+    "aspirations":
+    [],
+    "woohoo_spots":
+    [],
+    "careers":
+    [],
+    "features":
+    {
+        "fame":
+        {
+            "star_levels":
+            [
+                "Notable Newcomer",
+                "Rising Star",
+                "B-Lister",
+                "Proper Celebrity",
+                "Global Superstar"
+            ],
+            "fame_perks":
+            [
+                {
+                    "id": "corporate_partnership",
+                    "name": "Corporate Partnership",
+                    "type": "Branding"
+                },
+                {
+                    "id": "influencer",
+                    "name": "Influencer",
+                    "type": "Branding"
+                },
+                {
+                    "id": "all_nighter",
+                    "name": "All-Nighter",
+                    "type": "Branding"
+                },
+                {
+                    "id": "trailblazer",
+                    "name": "Trailblazer",
+                    "type": "Branding"
+                },
+                {
+                    "id": "lifestyle_brand",
+                    "name": "Lifestyle Brand",
+                    "type": "Branding"
+                },
+                {
+                    "id": "networking",
+                    "name": "Networking",
+                    "type": "Relationship"
+                },
+                {
+                    "id": "pr_agency",
+                    "name": "PR Agency",
+                    "type": "Relationship"
+                },
+                {
+                    "id": "fan_favorite",
+                    "name": "Fan Favorite",
+                    "type": "Relationship"
+                },
+                {
+                    "id": "instant_besties",
+                    "name": "Instant Besties",
+                    "type": "Relationship"
+                },
+                {
+                    "id": "squad",
+                    "name": "Squad",
+                    "type": "Relationship"
+                },
+                {
+                    "id": "noticeable",
+                    "name": "Noticeable",
+                    "type": "Skill & Career"
+                },
+                {
+                    "id": "celebuserum",
+                    "name": "CelebuSerum",
+                    "type": "Skill & Career"
+                },
+                {
+                    "id": "established_name",
+                    "name": "Established Name",
+                    "type": "Skill & Career"
+                },
+                {
+                    "id": "career_hopper",
+                    "name": "Career Hopper",
+                    "type": "Skill & Career"
+                },
+                {
+                    "id": "easy_street",
+                    "name": "Easy Street",
+                    "type": "Skill & Career"
+                },
+                {
+                    "id": "whos_bad",
+                    "name": "Who's Bad",
+                    "type": "Bad Reputation"
+                },
+                {
+                    "id": "play_the_villain",
+                    "name": "Play the Villain",
+                    "type": "Bad Reputation"
+                },
+                {
+                    "id": "feudbringer",
+                    "name": "FeudBringer",
+                    "type": "Bad Reputation"
+                },
+                {
+                    "id": "giving_back",
+                    "name": "Giving Back",
+                    "type": "Good Reputation"
+                },
+                {
+                    "id": "rally",
+                    "name": "Rally!",
+                    "type": "Good Reputation"
+                },
+                {
+                    "id": "star_treatment",
+                    "name": "Star Treatment",
+                    "type": "Good Reputation"
+                }
+            ],
+            "fame_quirks":
+            [
+                "Brushes with Fame",
+                "Emotion Bomb",
+                "\"Fan\" Mail",
+                "Juice Enthusiast",
+                "No Touching",
+                "Paparazzi Darling",
+                "Phone Fanatic",
+                "Public Number",
+                "Refined Palate",
+                "A Stan",
+                "A Serious Actor",
+                "Vain Street"
+            ]
+        },
+        "reputation":
+        {
+            "levels":
+            [
+                "Pristine",
+                "Great",
+                "Good",
+                "Neutral",
+                "Bad",
+                "Awful",
+                "Atrocious"
+            ]
+        }
+    },
+    "miscellaneous":
+    []
+}

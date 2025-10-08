@@ -1,0 +1,120 @@
+{
+    "simology":
+    [
+        {
+            "lifestyles":
+            [
+                "Adrenaline Seeker",
+                "Close-Knit",
+                "Coffee Fanatic",
+                "Energetic",
+                "Frequent Traveler",
+                "Health Food Nut",
+                "Hungry for Love",
+                "Indoorsy",
+                "Junk Food Fiend",
+                "People Person",
+                "Single and Lovin' It",
+                "Outdoorsy",
+                "Sedentary",
+                "Techie",
+                "Technophobe",
+                "Workaholic"
+            ],
+            "sentiments":
+            [],
+            "relationship_dynamics":
+            [
+                {
+                    "family":
+                    [
+                        "Close",
+                        "Distant",
+                        "Difficult",
+                        "Jokesters"
+                    ]
+                },
+                {
+                    "parent-child":
+                    [
+                        "Supportive",
+                        "Permissive",
+                        "Strict"
+                    ]
+                },
+                {
+                    "romantic":
+                    [
+                        "Steamy",
+                        "Strained",
+                        "Unpredictable",
+                        "Wholesome"
+                    ]
+                }
+            ],
+            "reputation":
+            [
+                "Pristine",
+                "Great",
+                "Good",
+                "Neutral",
+                "Bad",
+                "Awful",
+                "Atrocious"
+            ],
+            "star_levels":
+            [
+                "Notable Newcomer",
+                "Rising Star",
+                "B-Lister",
+                "Proper Celebrity",
+                "Global Superstar"
+            ],
+            "fame_perks":
+            [
+                "Corporate Partnership",
+                "Influencer",
+                "All-Nighter",
+                "Trailblazer",
+                "Lifestyle Brand",
+                "Networking",
+                "PR Agency",
+                "Fan Favorite",
+                "Instant Besties",
+                "Squad",
+                "Noticeable",
+                "CelebuSerum",
+                "Established Name",
+                "Career Hopper",
+                "Easy Street",
+                "Who's Bad",
+                "Play the Villain",
+                "FeudBringer",
+                "Giving Back",
+                "Rally!",
+                "Star Treatment"
+            ],
+            "fame_quirks":
+            [
+                "Brushes with Fame",
+                "Emotion Bomb",
+                "\"Fan\" Mail",
+                "Juice Enthusiast",
+                "No Touching",
+                "Paparazzi Darling",
+                "Phone Fanatic",
+                "Public Number",
+                "Refined Palate",
+                "A Stan",
+                "A Serious Actor",
+                "Vain Street"
+            ],
+            "milestones":
+            [],
+            "formative_moments":
+            [],
+            "midlife_crises":
+            []
+        }
+    ]
+}
