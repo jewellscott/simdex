@@ -1,0 +1,426 @@
+{
+    "worlds":
+    [
+        {
+            "id": "willow_creek",
+            "name": "Willow Creek",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Foundry Cove",
+                "Courtyard Lane",
+                "Pendula View",
+                "Sage Estates",
+                "Crawdad Quarter",
+                "Magnolia Blossom Park"
+            ],
+            "additional_areas":
+            [
+                "Sylvan Glade"
+            ]
+        },
+        {
+            "id": "oasis_springs",
+            "name": "Oasis Springs",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Bedrock Strait",
+                "Perched Prospect",
+                "Skyward Palms",
+                "Aquisition Butte",
+                "Mirage Canyon",
+                "Desert Bloom Park"
+            ],
+            "additional_areas":
+            [
+                "Forgotten Grotto"
+            ]
+        },
+        {
+            "id": "newcrest",
+            "name": "Newcrest",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Bridgeview",
+                "Llama Lagoon",
+                "Ridgeline Drive"
+            ],
+            "additional_areas":
+            []
+        },
+        {
+            "id": "magnolia_promenade",
+            "name": "Magnolia Promenade",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Magnolia Promenade"
+            ],
+            "additional_areas":
+            [
+                "Civic Center",
+                "Science Lab",
+                "Sixam"
+            ]
+        },
+        {
+            "id": "windenburg",
+            "name": "Windenburg",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "The Crumbling Isle",
+                "Windslar",
+                "Lykke Center",
+                "Olde Platz"
+            ],
+            "additional_areas":
+            [
+                "The Bluffs",
+                "Ancient Ruins",
+                "Von Haunt Estate"
+            ]
+        },
+        {
+            "id": "san_myshuno",
+            "name": "San Myshuno",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Uptown",
+                "Spice Market",
+                "Arts Quarter",
+                "Fashion District"
+            ],
+            "additional_areas":
+            [
+                "Myshuno Meadows"
+            ]
+        },
+        {
+            "id": "forgotten_hollow",
+            "name": "Forgotten Hollow",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Forgotten Hollow"
+            ],
+            "additional_areas":
+            []
+        },
+        {
+            "id": "brindleton_bay",
+            "name": "Brindleton Bay",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Sable Square",
+                "Whiskerman's Wharf",
+                "Cavalier Cove",
+                "Deadgrass Isle"
+            ],
+            "additional_areas":
+            []
+        },
+        {
+            "id": "del_sol_valley",
+            "name": "Del Sol Valley",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Mirage Park",
+                "The Pinnacles",
+                "Starlight Boulevard"
+            ],
+            "additional_areas":
+            [
+                "Plumbob Pictures"
+            ]
+        },
+        {
+            "id": "strangerville",
+            "name": "StrangerVille",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "StrangerVille Plaza",
+                "Shady Acres"
+            ],
+            "additional_areas":
+            [
+                "The ██████ Lab"
+            ]
+        },
+        {
+            "id": "sulani",
+            "name": "Sulani",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Lani St. Taz",
+                "Mua Pel'am",
+                "Ohan'ali Town"
+            ],
+            "additional_areas":
+            []
+        },
+        {
+            "id": "glimmerbrook",
+            "name": "Glimmerbrok",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Glimmerbrook"
+            ],
+            "additional_areas":
+            [
+                "The Magic Realm"
+            ]
+        },
+        {
+            "id": "britechester",
+            "name": "Britechester",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Foxbury Institute",
+                "Gibbs Hill",
+                "University of Britechester"
+            ],
+            "additional_areas":
+            []
+        },
+        {
+            "id": "evergreen_harbor",
+            "name": "Evergreen Harbor",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Grims Quarry",
+                "Conifer Station",
+                "Port Promise"
+            ],
+            "additional_areas":
+            []
+        },
+        {
+            "id": "mt_komorebi",
+            "name": "Mt. Komorebi",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Wakaba",
+                "Senbamachi",
+                "Yukimatsu"
+            ],
+            "additional_areas":
+            [
+                "Mt. Komorebi Base Camp",
+                "The Croft Icefall",
+                "Mt. Komorebi Peak"
+            ]
+        },
+        {
+            "id": "henford_on_bagley",
+            "name": "Henford on Bagley",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Finchwick",
+                "Old New Henford",
+                "The Bramblewood"
+            ],
+            "additional_areas":
+            []
+        },
+        {
+            "id": "tartosa",
+            "name": "Tartosa",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Porto Luminoso",
+                "Terra Amorosa"
+            ],
+            "additional_areas":
+            []
+        },
+        {
+            "id": "moonwood_mill",
+            "name": "Moonwood Mill",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Moonwood Mill"
+            ],
+            "additional_areas":
+            []
+        },
+        {
+            "id": "copperdale",
+            "name": "Copperdale",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Rockridge Heights",
+                "Prescott Square",
+                "Plumbite Cove"
+            ],
+            "additional_areas":
+            [
+                "Copperdale High School",
+                "Auditorium"
+            ]
+        },
+        {
+            "id": "san_sequoia",
+            "name": "San Sequoia",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Anchorpoint Wharf",
+                "Gilbert Gardens",
+                "Hopewell Hills"
+            ],
+            "additional_areas":
+            []
+        },
+        {
+            "id": "chestnut_ridge",
+            "name": "Chestnut Ridge",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Galloping Gulch",
+                "New Appaloosa",
+                "Riders' Glen"
+            ],
+            "additional_areas":
+            []
+        },
+        {
+            "id": "tomarang",
+            "name": "Tomarang",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Morensong",
+                "Koh Sahpa"
+            ],
+            "additional_areas":
+            []
+        },
+        {
+            "id": "ciudad_enamorada",
+            "name": "Ciudad Enamorada",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Nuevo Corazón",
+                "Plaza Mariposa",
+                "Vista Hermosa"
+            ],
+            "additional_areas":
+            []
+        },
+        {
+            "id": "ravenwood",
+            "name": "Ravenwood",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Crow's Crossing",
+                "Whispering  Glen",
+                "Mourningvale"
+            ],
+            "additional_areas":
+            [
+                "Netherworld Department"
+            ]
+        },
+        {
+            "id": "nordhaven",
+            "name": "Nordhaven",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Gammelvik",
+                "Iverstad"
+            ],
+            "additional_areas":
+            []
+        },
+        {
+            "id": "innisgreen",
+            "name": "Innisgreen",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Coast of Adhmor",
+                "Sprucederry Grove",
+                "Everdew"
+            ],
+            "additional_areas":
+            []
+        },
+        {
+            "id": "gibbi_point",
+            "name": "Gibbi Point",
+            "type": "Residential",
+            "neighborhoods":
+            [
+                "Wanderwood Wilds",
+                "Jellyfish Junction",
+                "Crystal Valley"
+            ],
+            "additional_areas":
+            []
+        },
+        {
+            "id": "granite_falls",
+            "name": "Granite Falls",
+            "type": "Destination",
+            "neighborhoods":
+            [
+                "Campground",
+                "Granite Falls Forest"
+            ],
+            "additional_areas":
+            [
+                "Deep Woods"
+            ]
+        },
+        {
+            "id": "selvadorada",
+            "name": "Selvadorada",
+            "type": "Destination",
+            "neighborhoods":
+            [
+                "Puerto Llamante Marketplace",
+                "Belomisia Jungle",
+                "Jungle District"
+            ],
+            "additional_areas":
+            [
+                "Temple area",
+                "Pool area",
+                "Island area"
+            ]
+        },
+        {
+            "id": "batuu",
+            "name": "Batuu",
+            "type": "Destination",
+            "neighborhoods":
+            [
+                "Black Spire Outpost",
+                "First Order District",
+                "Resistance Encampment"
+            ],
+            "additional_areas":
+            []
+        }
+    ]
+}
