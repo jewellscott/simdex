@@ -1,0 +1,45 @@
+{
+    "social_events":
+    {
+        "standard_events":
+        [
+            "Dinner Party",
+            "House Party",
+            "Birthday Party",
+            "Wedding Ceremony",
+            "Black and White Bash",
+            "Incognito Costume Party",
+            "Weenie Roast",
+            "Spooky Party",
+            "Dance Party",
+            "Toddler Play Date",
+            "Charity Benefit Party",
+            "Lampoon Party",
+            "Fan Meet and Greet",
+            "Kava Party",
+            "Keg Party",
+            "Mountain Climb Excursion",
+            "Baby Shower",
+            "Family Reunion",
+            "Slumber Party",
+            "Ranch Animal Day",
+            "Ranch Gathering",
+            "Neighborhood Potluck",
+            "Pool Party"
+        ],
+        "customizable_events":
+        [
+            "Bach Party",
+            "Engagement Dinner",
+            "Family Gathering",
+            "Reception",
+            "Rehearsal Dinner",
+            "Vow Renewal",
+            "Get to Know You Date",
+            "Romantic Date",
+            "Romantic Repair Date",
+            "Friendly Hangout",
+            "Funeral"
+        ]
+    }
+}
