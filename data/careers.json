@@ -263,7 +263,7 @@
         },
         {
             "id": "law",
-            "name": "",
+            "name": "Law",
             "type": "Full-time",
             "branches":
             [
@@ -273,7 +273,7 @@
         },
         {
             "id": "civil_designer",
-            "name": "",
+            "name": "Civil Designer",
             "type": "Full-time",
             "branches":
             [

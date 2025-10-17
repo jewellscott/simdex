@@ -1,60 +1,36 @@
 {
-    "animal":
+    "adult_aspirations":
     [
-        "Friend of the Animals"
-    ],
-    "athletic":
-    [
+        "Friend of the Animals",
         "Bodybuilder",
         "Extreme Sports Enthusiast",
-        "Championship Rider"
-    ],
-    "creativity":
-    [
-        "Painter Extraordinare",
+        "Championship Rider",
+        "Painter Extraordinaire",
         "Musical Genius",
         "Bestselling Author",
-        "Master Actor/Master Actress",
+        "Master Actor/Actress",
         "Master Maker",
-        "Lord/Lady of the Knits"
-    ],
-    "deviance":
-    [
+        "Lord/Lady of the Knits",
         "Public Enemy",
         "Chief of Mischieff",
         "Villainous Valentine",
         "Seeker of Secrets",
-        "Sticky Fingers"
-    ],
-    "fairy":
-    [
+        "Sticky Fingers",
         "Fairy Stores",
         "Discordant Fairy",
-        "Harmonious Fairy"
-    ],
-    "family":
-    [
+        "Harmonious Fairy",
         "Successful Lineage",
         "Big Happy Family",
         "Vampire Family",
-        "Super Parent"
-    ],
-    "food":
-    [
+        "Super Parent",
         "Master Chef",
         "Master Mixologist",
         "Expert Nectar Maker",
-        "Appliance Whiz"
-    ],
-    "fortune":
-    [
+        "Appliance Whiz",
         "Fabulously Wealthy",
         "Mansion Baron",
         "Market Magnate",
-        "Five-Star Property Owner"
-    ],
-    "knowledge":
-    [
+        "Five-Star Property Owner",
         "Renaissance Sim",
         "Nerd Brain",
         "Computer Whiz",
@@ -64,27 +40,18 @@
         "Academic",
         "Ghost Historian",
         "Master Mentor",
-        "Elixir Enthusiast"
-    ],
-    "location":
-    [
+        "Elixir Enthusiast",
         "City Native",
         "StrangerVille Mystery",
         "Beach Life",
         "Mt. Komorebi Sightseer",
         "Perfectly Pristine",
         "Fabulously Filthy",
-        "Fount of Tomarani Knowledge"
-    ],
-    "love":
-    [
+        "Fount of Tomarani Knowledge",
         "Serial Romantic",
         "Soulmate",
         "Romantic Explorer",
-        "Paragon Partner"
-    ],
-    "nature":
-    [
+        "Paragon Partner",
         "Freelance Botanist",
         "The Curator",
         "Angling Ace",
@@ -95,10 +62,7 @@
         "Country Caretaker",
         "Crystal Crafter",
         "Nature Nomad",
-        "Critter Hunter"
-    ],
-    "popularity":
-    [
+        "Critter Hunter",
         "Joke Star",
         "Party Animal",
         "Friend of the World",
@@ -107,46 +71,18 @@
         "Good Vampire",
         "World-Famous Celebrity",
         "Discerning Dweller",
-        "Esteemed Entrepreneur"
-    ],
-    "star_wars":
-    [
+        "Esteemed Entrepreneur",
         "Hope VS Order",
         "Paragon of Hope",
         "Enforcer of Order",
-        "Galactic Privateer"
-    ],
-    "wellness":
-    [
+        "Galactic Privateer",
         "Inner Peace",
         "Self-Care Specialist",
-        "Zen Guru"
-    ],
-    "werewolf":
-    [
+        "Zen Guru",
         "Werewolf Initiate",
         "Lone Wolf",
         "Emissary of the Collective",
         "Wildfang Renegade",
         "Cure Seeker"
-    ],
-    "child":
-    [
-        "Artistic Prodigy",
-        "Rambunctious Scamp",
-        "Social Butterfly",
-        "Cool Kid on the Block",
-        "Whiz Kid",
-        "Slumber Party",
-        "Mind and Body",
-        "Playtime Captain",
-        "Creative Genius"
-    ],
-    "teen":
-    [
-        "Drama Llama",
-        "Goal Oriented",
-        "Live Fast",
-        "Admired Icon"
     ]
 }
